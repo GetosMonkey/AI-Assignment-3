@@ -1,0 +1,19 @@
+# Ignore the massive data files
+WDICSV.csv
+HDR25_Statistical_Annex_HDI_Table.xlsx
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Standard Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
