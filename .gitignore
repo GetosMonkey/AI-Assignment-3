@@ -1,6 +1,5 @@
 # Ignore the massive data files
-WDICSV.csv
-HDR25_Statistical_Annex_HDI_Table.xlsx
+A3-dataset/
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
